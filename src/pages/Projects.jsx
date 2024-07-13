@@ -119,14 +119,14 @@ const Projects = () => {
             </div>
             <div className="project-btns">
               <a
-                href="https://alibi-esports.onrender.com/"
+                href="https://pch14.uz/"
                 target="_blank"
                 rel="noopen noreferrer"
               >
                 Demo
               </a>
               <a
-                href="https://github.com/justindjsuh/alibi-esports-fe"
+                href="https://github.com/SardorbekCoder07/Railway_z"
                 target="_blank"
                 rel="noopen noreferrer"
               >
