@@ -116,6 +116,7 @@
   height: 100%;
   object-fit: cover;
   border-radius: 0.8rem;
+  position: relative;
 }
 
 .project-img::before {
@@ -139,7 +140,7 @@
 }
 
 .project-img:hover {
-  transform: translateX(-8rem) scale(1.03);
+  transform: translateX(20rem) scale(10);
 }
 
 .project-title {
