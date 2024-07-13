@@ -27,7 +27,7 @@ const Contact = () => {
         import.meta.env.VITE_TEMPLATE_ID,
         {
           from_name: `${firstName} ${surname}`,
-          to_name: "Justin",
+          to_name: "Omadbek",
           subject,
           message,
           reply_to: email,
@@ -167,7 +167,7 @@ const Contact = () => {
             </svg>
           </a>
           <a
-            href="https://github.com/justindjsuh"
+            href="https://github.com/omadbekolimov?tab=overview&from=2024-07-01&to=2024-07-13"
             target="_blank"
             rel="noopener noreferrer"
           >
